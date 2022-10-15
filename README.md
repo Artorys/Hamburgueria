@@ -42,8 +42,8 @@ Projeto feito React.js utilizando as seguintes bibliotecas e hooks :
 
   * axios : Utilizado para trabalhar com requisições e respostas http.
   * styled-components : Utilizado para estilização de componentes react.
-  * MUI : Utilizado para agilizar na criação de componentes,ja que esta biblioteca possui muitos componentes pré-fabricados.
   * useState : feito para gerenciar seu estados de maneira declarativa e performática.
+  
 ## 📌 Versão
 
  Finalizado.
