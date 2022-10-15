@@ -5,11 +5,11 @@
 </div>
 
 
-# kenzieBurguer
+# Burguer-Kenzie
 
-Deploy : https://kenziehubtypescript.vercel.app
+Deploy : https://haburgueria-zeta.vercel.app/
  
-Um sistema de registro e login com uma dashboard,com validações de email e senha,utilizando-se uma api para o cadastro de usuários também para o cadastro de tecnologias escolhidas pelo usuário.
+O objetivo era construir  uma interface de compra de lanches,adicionando eles ao carrinho de  compra,removendo quando achar necessário e com barra de pesquisa para  achar o seu lanche.
 
 ## 🚀 Começando
 
@@ -40,15 +40,12 @@ Ambiente de desenvolvimento(IDE) - Visual Studio Code
 
 ## 🛠️ Construído com
 
+Projeto feito React.js utilizando as seguintes bibliotecas e hooks :
+
   * axios : Utilizado para trabalhar com requisições e respostas http.
   * styled-components : Utilizado para estilização de componentes react.
   * MUI : Utilizado para agilizar na criação de componentes,ja que esta biblioteca possui muitos componentes pré-fabricados.
-  * createContext e useContext : Para englobar uma página ou componente especíﬁco e poder o usar o contexto criado.
-  * react-hook-form e yup : Para registrar informações de formulários e suas validações,respectivamente.
-  * react-router-dom : Para administrar as rotas em sua aplição.
-  * useState : Feito para gerenciar seu estados de maneira declarativa e performática.
-
-
+  * useState : feito para gerenciar seu estados de maneira declarativa e performática.
 ## 📌 Versão
 
  Finalizado.
